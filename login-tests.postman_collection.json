@@ -999,7 +999,7 @@
 		},
 		{
 			"key": "baseURL",
-			"value": "https://reqres.in/api/",
+			"value": "https://reqres.in/api",
 			"type": "string"
 		},
 		{
