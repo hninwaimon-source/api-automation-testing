@@ -4,7 +4,7 @@ This repository contains Postman API test collections for [Reqres.in](https://re
 
 ## How to Run the Tests
 
-. Check if Node.js is installed
+Check if Node.js is installed
 node -v
 
 Install Newman globally
