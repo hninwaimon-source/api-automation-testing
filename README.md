@@ -7,4 +7,4 @@ This repository contains Postman API test collections for [Reqres.in](https://re
 You can run this collection using [Newman](https://www.npmjs.com/package/newman):
 
 ```bash
-newman run login-tests.postman_collection.json
+newman run filepath/login-tests.postman_collection.json
