@@ -2,6 +2,8 @@
 
 This repository contains Postman API test collections for [Reqres.in](https://reqres.in) demo API.
 
+git clone https://github.com/hninwaimon-source/api-automation-testing.git
+
 ## How to Run the Tests
 
 Check if Node.js is installed ->
